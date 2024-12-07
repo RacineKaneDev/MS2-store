@@ -1,0 +1,23 @@
+{
+  "generator-jhipster": {
+    "applicationIndex": 2,
+    "applicationType": "microservice",
+    "authenticationType": "oauth2",
+    "baseName": "store",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "enableHibernateCache": false,
+    "entities": ["Product"],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "ZTM4Y2M0OWU4YmU0ZmJkZWNlNzQzYzVkODNhMzYzNzc5YzdmMGQ2YzFmOWE3MjkyYWJjOGJjM2Y0OTcwNWU1ZTliOGFmY2M0YTg0MDFhMzc2ZjUzNjUyZDcyYzI5MDg2ODA2MGRmMmRhMzhlYTE4NTlkOGNkODc0OWEyOTBmYjc=",
+    "languages": ["en"],
+    "lastLiquibaseTimestamp": 1733575893000,
+    "nativeLanguage": "en",
+    "packageName": "com.okta.developer.store",
+    "prodDatabaseType": "mongodb",
+    "serverPort": "8082",
+    "serviceDiscoveryType": "eureka",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
